@@ -1,0 +1,11 @@
+{
+  "name": "com.ams.sun",
+  "version": "1.0.0",
+  "description": "AMS Sun",
+  "displayName": "AMS Sun",
+  "author": {
+    "name": "Anthony Sorge",
+    "email": "asorgejr@gmail.com"
+  },
+  "type": "library"
+}

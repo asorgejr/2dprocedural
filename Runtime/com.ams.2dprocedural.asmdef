@@ -1,7 +1,10 @@
 {
-    "name": "com.ams.sun",
+    "name": "com.ams.2dprocedural",
     "rootNamespace": "ams",
-    "references": [],
+    "references": [
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:21d1eb854b91ade49bc69a263d12bee2"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

@@ -1,11 +1,15 @@
 {
-  "name": "com.ams.sun",
+  "name": "com.ams.2dprocedural",
   "version": "1.0.0",
-  "description": "AMS Sun",
-  "displayName": "AMS Sun",
+  "description": "AMS 2D Procedural",
+  "displayName": "AMS 2D Procedural",
   "author": {
     "name": "Anthony Sorge",
     "email": "asorgejr@gmail.com"
   },
-  "type": "library"
+  "type": "library",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.6",
+    "com.unity.splines": "2.3.0"
+  }
 }

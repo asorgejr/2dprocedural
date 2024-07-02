@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace ams
+namespace ams.2d
 {
 public partial class SplineGenerator
 {

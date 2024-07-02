@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace ams
+namespace ams.2d
 {
 [ExecuteInEditMode]
 public class SplineBridgeExtension : SplineExtension

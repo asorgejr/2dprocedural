@@ -9,7 +9,7 @@ using UnityEngine.Splines;
 
 using CU = UnityEngine.Splines.CurveUtility;
 
-namespace ams.2d
+namespace ams
 {
 [Serializable]
 public class SplinePointCollection

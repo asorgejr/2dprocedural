@@ -4,7 +4,7 @@ using UnityEditor.UI;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-namespace ams.2d
+namespace ams
 {
 public class GridEditorWindow : EditorWindow
 {

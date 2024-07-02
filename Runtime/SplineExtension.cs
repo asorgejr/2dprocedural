@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace ams.2d
+namespace ams
 {
 [RequireComponent(typeof(SplineGenerator))]
 public class SplineExtension : MonoBehaviour
